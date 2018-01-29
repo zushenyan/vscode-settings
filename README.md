@@ -10,3 +10,8 @@ Configurations for my vscode
 - Git History
 - Git Lens
 - stylelint
+
+# Keyboard Shortcuts
+- Align `ctrl + cmd + /`
+- Open Next Editor `ctrl + tab`
+- Open Previous Editor `ctrl + shift + tab`

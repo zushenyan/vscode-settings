@@ -1,3 +1,0 @@
-- Align `ctrl + cmd + /`
-- Open Next Editor `ctrl + tab`
-- Open Previous Editor `ctrl + shift + tab`

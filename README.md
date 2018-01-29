@@ -12,6 +12,7 @@ Configurations for my vscode
 - stylelint
 
 # User Settings
+Copy-paste this to preferences - user settings.
 https://github.com/zushenyan/vscode-settings/blob/master/user-settings.js
 
 # Keyboard Shortcuts

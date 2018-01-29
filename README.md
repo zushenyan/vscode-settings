@@ -11,6 +11,9 @@ Configurations for my vscode
 - Git Lens
 - stylelint
 
+# User Settings
+https://github.com/zushenyan/vscode-settings/blob/master/user-settings.js
+
 # Keyboard Shortcuts
 - Align `ctrl + cmd + /`
 - Open Next Editor `ctrl + tab`

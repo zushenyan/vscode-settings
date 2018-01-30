@@ -2,6 +2,7 @@
 Configurations for my vscode
 
 # Plugins
+- Active File in Statusbar
 - Align
 - Atom Keymap
 - Docker

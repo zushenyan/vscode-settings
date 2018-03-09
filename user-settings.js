@@ -5,6 +5,7 @@
     "editor.multiCursorModifier": "ctrlCmd",
     "editor.formatOnPaste": true,
     "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "all",
     "explorer.openEditors.visible": 0,
     "explorer.autoReveal": false,
     "workbench.editor.enablePreviewFromQuickOpen": false,
@@ -22,4 +23,6 @@
     },
     "atomKeymap.promptV3Features": true,
     "eslint.autoFixOnSave": true,
+    "gitlens.currentLine.enabled": false,
+    "gitlens.hovers.currentLine.enabled": false,
 }

@@ -8,21 +8,10 @@
     "editor.renderWhitespace": "all",
     "explorer.openEditors.visible": 0,
     "explorer.autoReveal": false,
-    "workbench.editor.enablePreviewFromQuickOpen": false,
-    "gitlens.blame.line.enabled": false,
-    "gitlens.advanced.messages": {
-        "suppressCommitHasNoPreviousCommitWarning": false,
-        "suppressCommitNotFoundWarning": false,
-        "suppressFileNotUnderSourceControlWarning": false,
-        "suppressGitVersionWarning": false,
-        "suppressLineUncommittedWarning": false,
-        "suppressNoRepositoryWarning": false,
-        "suppressResultsExplorerNotice": false,
-        "suppressUpdateNotice": false,
-        "suppressWelcomeNotice": true
-    },
     "atomKeymap.promptV3Features": true,
     "eslint.autoFixOnSave": true,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "gitlens.codeLens.enabled": false,
     "gitlens.currentLine.enabled": false,
-    "gitlens.hovers.currentLine.enabled": false,
+    "gitlens.hovers.currentLine.over": "line"
 }

@@ -1,21 +1,18 @@
 # vscode-settings
-Configurations for my vscode
+Configurations for my vscode editor.
 
 # Plugins
-- Active File in Statusbar
-- Align
 - Atom Keymap
-- Docker
 - EditorConfig for VS Code
-- ESLint
-- Git History
+- Stylelint
+- Eslint
+- Tslint
 - Git Lens
-- stylelint
 
 # User Settings
-Copy-paste this to preferences - user settings.
+Copy & paste this to settings.
 
-https://github.com/zushenyan/vscode-settings/blob/master/user-settings.js
+https://github.com/zushenyan/vscode-settings/blob/master/settings.json
 
 # Keyboard Shortcuts
 - Align `ctrl + cmd + /`

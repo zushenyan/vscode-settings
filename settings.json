@@ -1,0 +1,6 @@
+{
+    "editor.fontSize": 14,
+    "workbench.editor.enablePreview": false,
+    "gitlens.codeLens.enabled": false,
+    "gitlens.currentLine.enabled": false
+}
